@@ -1,14 +1,13 @@
-# Nerfies
+# DigKnow: Human Demonstrations are Generalizable Knowledge for Robots
 
-This is the repository that contains source code for the [Nerfies website](https://nerfies.github.io).
+This is the repository that contains source code for the [DigKnow website](https://digknow.github.io).
 
 If you find Nerfies useful for your work please cite:
 ```
-@article{park2021nerfies
-  author    = {Park, Keunhong and Sinha, Utkarsh and Barron, Jonathan T. and Bouaziz, Sofien and Goldman, Dan B and Seitz, Steven M. and Martin-Brualla, Ricardo},
-  title     = {Nerfies: Deformable Neural Radiance Fields},
-  journal   = {ICCV},
-  year      = {2021},
+@article{cui2024human,
+      title={Human Demonstrations are Generalizable Knowledge for Robots}, 
+      author={Te Cui and Guangyan Chen and Tianxing Zhou and Zicai Peng and Mengxiao Hu and Haoyang Lu and Haizhou Li and Meiling Wang and Yi Yang and Yufeng Yue},
+      year={2024},
 }
 ```
 
